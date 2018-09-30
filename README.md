@@ -8,3 +8,11 @@ Example: you get the ticket "657711". One solution is: (7 + 7 + 6) * 5 * 1 * 1 =
 
 This repo contains utilities to check if puzzles are solvable. Eventually, I may add a webapp version of the game.
 
+## License
+
+This software is licensed under the GPLv3. You may find the text in LICENSE.txt.
+
+## Copyright
+
+Copyright 2018, Nicholas Tietz-Sokolsky, all rights reserved.
+
